@@ -1505,8 +1505,8 @@ theme:
   selectImage: Вибрати зображення
   selectMusic: Вибрати музику
   selectVideo: Вибрати відео
-  title: X Minecraft Launcher
-title: X Minecraft Launcher
+  title: nLauncher
+title: nLauncher
 transportType:
   host: Кандидат хоста
   prflx: Кандидат Peer Reflexive

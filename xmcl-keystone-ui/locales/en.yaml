@@ -1538,8 +1538,8 @@ theme:
   selectImage: Select Image
   selectMusic: Select Music
   selectVideo: Select Video
-  title: X Minecraft Launcher
-title: X Minecraft Launcher
+  title: nLauncher
+title: nLauncher
 transportType:
   host: Host Candidate
   prflx: Peer Reflexive Candidate

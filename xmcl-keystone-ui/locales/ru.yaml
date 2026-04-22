@@ -1544,8 +1544,8 @@ theme:
   selectImage: Выберите изображение
   selectMusic: Выберите музыку
   selectVideo: Выберите видео
-  title: X Minecraft Launcher
-title: X Minecraft Launcher
+  title: nLauncher
+title: nLauncher
 transportType:
   host: Хост-кандидат
   prflx: Пиринг-рефлексивный кандидат
